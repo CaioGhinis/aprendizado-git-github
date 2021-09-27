@@ -1,0 +1,2 @@
+Os principais comandos do git são: mkdir, cd, touch, etc.
+teste teste
